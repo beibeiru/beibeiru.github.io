@@ -44,11 +44,11 @@ a.hiddenlink {
 }
 
 a {
-    color: #A80532;
+    color: #2060ff;
 }
 
 a:hover {
-    color: #A80532;
+    color: #2060ff;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
